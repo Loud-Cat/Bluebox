@@ -1,5 +1,4 @@
 
-
 // Variables for the width of each box
 // And an array of box positions
 let w;
