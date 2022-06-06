@@ -6,9 +6,8 @@ let boxes = [];
 function setup() {
   createCanvas(400, 400, WEBGL);
 
-  // boxes have a thin blue outline
+  // boxes have a blue outline
   stroke(0, 0, 100);
-  strokeWeight(0.5);
 
   // Generate an array of boxes
   // All next to each other in a rectangle
